@@ -39,8 +39,8 @@ class Main extends React.Component {
                         </td>
                         <td className='tdd'></td>
                         <td className='tdContact'>
-                            <img width={"20px"} src={"https://img.icons8.com/cute-clipart/64/000000/phonelink-ring.png"} /> 8-991-767-71-91<br />
-                            <img width={"20px"} src="https://img.icons8.com/dusk/64/000000/mail-ru-agent.png" /> poverum@bk.ru
+                            <img width={"20px"} src={"http://img.icons8.com/cute-clipart/64/000000/phonelink-ring.png"} /> 8-991-767-71-91<br />
+                            <img width={"20px"} src="http://img.icons8.com/dusk/64/000000/mail-ru-agent.png" /> poverum@bk.ru
                         </td>
 
                     </tr>
